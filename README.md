@@ -68,3 +68,7 @@ To run this project locally:
 1. Clone the repository.
    ```bash
    git clone https://github.com/yourusername/bank-term-deposit-prediction.git
+2. Deployed Model
+The predictive model is hosted and accessible via a Flask API. Details of the hosted application:
+API Endpoint: http://127.0.0.1:5000/
+
