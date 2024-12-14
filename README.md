@@ -47,8 +47,8 @@ Further enhancements could include testing additional algorithms, expanding feat
 An assessment report detailing the analysis, methodologies, and findings of this project can be accessed [here](https://docs.google.com/document/d/1GBvXILQBgsFkdjd8mBx9gHqmGP5_sd-YgxTuHhMQmws/edit?usp=sharing).
 
 ## File Descriptions
+This repository contains various resources related to a project for predicting whether a client will subscribe to a term deposit, using machine learning models and data analytics techniques.
 The following files are included in this repository:
-
 - **`.ipynb_checkpoints/`**: This folder contains Jupyter notebook checkpoints for saving progress.
 - **`BankCode.ipynb`**: Jupyter notebook for initial data processing and code.
 - **`BankTask.ipynb`**: Jupyter notebook for completing tasks associated with the bank term deposit analysis.
